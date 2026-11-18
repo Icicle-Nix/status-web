@@ -1,0 +1,24 @@
+body {
+  background: #111;
+  color: #ddd;
+  font-family: monospace;
+  font-size: 14px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 12px;
+}
+h1 {
+  font-size: 16px;
+  margin: 0;
+}
+.t {
+  color: #888;
+  font-size: 12px;
+}
+.bad {
+  color: #e66;
+}
+pre {
+  margin: 10px 0 0;
+  white-space: pre;
+}

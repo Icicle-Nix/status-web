@@ -1,0 +1,11 @@
+{
+  "name": "status-web",
+  "private": true,
+  "scripts": {
+    "build": "rescript build",
+    "watch": "rescript watch"
+  },
+  "devDependencies": {
+    "rescript": "12.3.1"
+  }
+}

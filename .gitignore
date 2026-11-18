@@ -1,0 +1,6 @@
+result
+result-*
+node_modules/
+lib/
+src/*.res.mjs
+.bsb.lock
